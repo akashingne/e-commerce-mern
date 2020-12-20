@@ -1,0 +1,40 @@
+.shop {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  display: grid;
+  grid-template-columns: 25% 75%;
+  background: rgba(182, 172, 172, 0.63);
+}
+
+.shop .shop_sidebar {
+  border-right: 10px solid #873598;
+  padding: 0 1em;
+}
+
+.shop .shop_sidebar .shop_sidebar_main_title {
+  height: 50px;
+  background-color: #873598;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.shop .shop_sidebar .shop_sidebar_main_title h3 {
+  line-height: 50px;
+}
+
+.shop .shop_sidebar .shop_sidebar_title {
+  background-color: #873598;
+  height: 45px;
+  margin: 25px 20px;
+  color: #fff;
+}
+
+.shop .shop_sidebar .shop_sidebar_title h4 {
+  line-height: 45px;
+}
+
+.shop .shop_main {
+  /* background-color: brown; */
+  margin-left: 1em;
+  margin-right: 1em;
+}

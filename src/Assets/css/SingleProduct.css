@@ -1,0 +1,49 @@
+.singleProduct .singleProduct_wrapper {
+  margin: 50px 0;
+}
+
+.singleProduct .singleProduct_wrapper .singleProduct_image img {
+  width: 430px;
+}
+
+.singleProduct .singleProduct_wrapper .singleProduct_content p span {
+  font-weight: 600;
+}
+
+.singleProduct
+  .singleProduct_wrapper
+  .singleProduct_content
+  .singleProduct_discription
+  p {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.5em;
+}
+
+.singleProduct
+  .singleProduct_wrapper
+  .singleProduct_content
+  .singleProduct_quantity
+  button {
+  margin: 0 15px 15px;
+  padding: 5px 10px;
+  outline: none;
+}
+
+.singleProduct
+  .singleProduct_wrapper
+  .singleProduct_content
+  .singleProduct_addToCart
+  .MuiButton-root {
+  background: #873598;
+  color: #fff;
+  outline: none;
+  margin-top: 20px;
+}
+
+.singleProduct .singleProduct_wrapper button.btnDisable {
+  box-shadow: none;
+  cursor: default;
+  pointer-events: none;
+  background: gray;
+}

@@ -1,0 +1,114 @@
+.products {
+  padding-top: 100px;
+}
+
+.products_shop {
+  padding-top: 50px;
+}
+
+.products .row {
+  width: 100%;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  flex-flow: row wrap;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.products .product,
+.products .product--red {
+  box-shadow: 1px 5px 15px #ccc;
+  /* width: 15em; */
+  height: auto;
+  border-radius: 3px;
+  padding: 2em;
+  margin: 1em;
+  overflow: hidden;
+  position: relative;
+  -webkit-box-flex: 1;
+  flex: auto;
+}
+.products .product--red {
+  background: linear-gradient(
+    -45deg,
+    #873598 50%,
+    rgba(255, 255, 255, 0.5) 50%
+  );
+}
+.products .product img,
+.products .product--red img {
+  max-width: 100%;
+  height: auto !important;
+  text-align: center;
+}
+.products .product_inner {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-flow: column wrap;
+}
+
+.products .product_inner a {
+  outline: none;
+}
+
+.products .product_inner p {
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 0;
+}
+.products .product_inner button {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  color: #fff;
+  border-radius: 3px;
+  padding: 1em 3em;
+  margin: 1em 0 0 0;
+  background: none;
+  cursor: pointer;
+  -webkit-transition: background ease-in 0.25s;
+  transition: background ease-in 0.25s;
+}
+.products .product_inner button:hover {
+  background: white;
+  color: #2b2d42;
+}
+.products .product_inner button:hover:before {
+  color: #2b2d42;
+}
+.products .product_overlay {
+  background: rgba(255, 255, 255, 0.9);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  -webkit-transform: translateY(-500px);
+  transform: translateY(-500px);
+  opacity: 0;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-flow: column wrap;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.products .product_overlay h2 {
+  color: rgba(43, 45, 66, 0.7);
+  font-size: 1.2em;
+  margin: 1em 0;
+}
+.products .product_overlay i {
+  color: rgba(43, 45, 66, 0.7);
+  font-size: 1.5em;
+}

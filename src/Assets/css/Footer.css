@@ -1,0 +1,48 @@
+.footer {
+  background: #873598;
+  margin-top: 50px;
+  padding: 50px 0 5px;
+  color: #fff;
+}
+
+.footer .footer_wrapper {
+  padding-bottom: 30px;
+}
+
+.footer .footer_wrapper .footer_social ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.footer .footer_wrapper .footer_social ul li .MuiIconButton-root {
+  color: #fff;
+  outline: none;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.footer .footer_wrapper .footer_menu ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.footer .footer_wrapper .footer_menu ul li {
+  margin: 0 20px;
+}
+
+.footer .footer_wrapper .footer_menu ul li a {
+  color: #fff;
+  text-decoration: none;
+  outline: none;
+}
+
+.footer hr {
+  border-color: #fff;
+}
+
+.footer .footer_mainFooter p {
+  font-size: 15px;
+  font-weight: 500;
+}

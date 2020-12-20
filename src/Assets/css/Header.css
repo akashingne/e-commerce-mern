@@ -1,0 +1,31 @@
+.header {
+  margin-bottom: 80px;
+}
+
+.header .navbar.navbar-expand-lg.navbar-light.bg-bark {
+  background: #873598;
+  padding: 1rem;
+}
+
+.header .navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  justify-content: inherit;
+}
+
+.header .navbar .navbar-nav a {
+  text-decoration: none;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  outline: none;
+}
+
+.header .navbar .navbar-nav a.cartUrl {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.header .MuiIconButton-root {
+  outline: none;
+  color: #fff;
+}

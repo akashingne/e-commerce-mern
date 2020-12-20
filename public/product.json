@@ -1,0 +1,113 @@
+[
+  {
+    "_id": 1,
+    "title": "Product 1",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Shoes",
+    "brand": "Nike",
+    "size": 7,
+    "quantity": 50
+  },
+  {
+    "_id": 2,
+    "title": "Product 2",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Electronics",
+    "brand": "Apple",
+    "size": 7,
+    "quantity": 50
+  },
+
+  {
+    "_id": 3,
+    "title": "Product 3",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Shoes",
+    "brand": "Nike",
+    "size": 7,
+    "quantity": 50
+  },
+  {
+    "_id": 4,
+    "title": "Product 4",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Shoes",
+    "brand": "Nike",
+    "size": 7,
+    "quantity": 50
+  },
+  {
+    "_id": 5,
+    "title": "Product 5",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Home",
+    "brand": "BBK",
+    "size": 7,
+    "quantity": 50
+  },
+  {
+    "_id": 6,
+    "title": "Product 6",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Kitchen",
+    "brand": "LG",
+    "size": 7,
+    "quantity": 50
+  },
+  {
+    "_id": 7,
+    "title": "Product 7",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Sports",
+    "brand": "Samsung",
+    "size": 7,
+    "quantity": 50
+  },
+  {
+    "_id": 8,
+    "title": "Product 8",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Sports",
+    "brand": "Samsung",
+    "size": 7,
+    "quantity": 50
+  },
+  {
+    "_id": 9,
+    "title": "Product 9",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Sports",
+    "brand": "Samsung",
+    "size": 7,
+    "quantity": 50
+  },
+  {
+    "_id": 10,
+    "title": "Product 9",
+    "discription": "Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not optimized. Note that the development build is not ",
+    "image": "/product1.png",
+    "price": 50,
+    "category": "Other",
+    "brand": "Samsung",
+    "size": 7,
+    "quantity": 50
+  }
+]

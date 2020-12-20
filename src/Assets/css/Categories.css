@@ -1,0 +1,25 @@
+.category {
+  padding-top: 70px;
+}
+
+.category .category_title {
+  padding-bottom: 30px;
+}
+
+.category .category_main button {
+  border: none;
+  outline: none;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.category .category_main .category_main_inner {
+  background-color: #873598;
+  border-radius: 15px;
+  height: 100px;
+  width: 160px;
+}
+
+.category .category_main .category_main_inner h5 {
+  line-height: 90px;
+}
